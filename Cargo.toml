@@ -1,0 +1,10 @@
+[package]
+name = "bbtc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bitcoin = "0.32.2"
+f = "0.2.0"
+full = "0.1.0"
+hex = "0.4.3"
